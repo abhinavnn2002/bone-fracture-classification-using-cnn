@@ -7,7 +7,7 @@ The primary objective of this project is to create an efficient and accurate mod
 This can serve as a foundational tool in medical imaging for assisting doctors in analyzing radiographs.
 
 ## Dataset
-The dataset used for this project consists of X-ray images of fractured and non-fractured bones, obtained from an open-source platform such as Kaggle. 
+The dataset used for this project was picked from picked from kaggle ("https://www.kaggle.com/datasets/bmadushanirodrigo/fracture-multi-region-x-ray-data") consists of X-ray images of fractured and non-fractured bones, obtained from an open-source platform such as Kaggle. 
 The data is divided into training, validation, and testing subsets. The images are preprocessed and labeled to ensure consistency and quality during model training.
 The dataset includes multiple image formats and resolutions, which were standardized during preprocessing.
 
